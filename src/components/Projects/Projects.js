@@ -25,10 +25,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="My Shop"
+              title="TRELLTECH"
               description="An e-commerce site built with PHP, HTML5 and Tailwindcss"
-              ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-DEV-114-COT-1-2-myshop-vivien.ogoun.git"
-              // demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-COD-290-COT-2-3-epicture-syntyche.saizonou.git"
             />
           </Col>
 
@@ -37,9 +36,8 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="POST-IT"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="A notes managament app built with Vue js and Tailwind Css."
               ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-DEV-121-COT-1-2-postit-syntyche.saizonou.git"
-              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -47,10 +45,9 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="TWP"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-DEV-121-COT-1-2-twp-melvyn.quenum.git"
-              // demoLink="https://editor.soumya-jit.tech/"
+              title="My ShowTime"
+              description="My Show Time is a concert and festival ticket booking platform built using NestJS and *MongoDB. It features both a frontoffice for users to book tickets and a backoffice for administrators to manage concerts and track bookings."
+              ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-COD-250-COT-2-3-showtime-gracias.daga.git"
             />
           </Col>
 
@@ -58,10 +55,9 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              // demoLink="https://plant49-ai.herokuapp.com/"
+              title="COMMENT-IT"
+              description="A revolutionary web application that empowers users to comment on any content across the internet . The frontend is written in Vue js. The backend uses the Laravel framework. "
+              ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-DEV-160-COT-1-2-yowl-vivien.ogoun.git"
             />
           </Col>
 
@@ -69,10 +65,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              title="DASHBOARD"
+              description="A web application that works like Netvibes allowing users to subscribe to different services you that are accessible that offer different widgets. This app is built with Django and React js.."
+              ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-COD-280-COT-2-3-dashboard-vivien.ogoun.git"
             />
           </Col>
 
@@ -80,11 +75,9 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here
+              title="Movie joy"
+              description="This is a Next.js project bootstrapped with create-next-app. with typescript and tailwind css. My movie joy is a website managed by an admin and a user can comment on his favorite films."
+              ghLink="https://github.com/EpitechCodingAcademyPromo2024/C-COD-270-COT-2-3-c2cod270p0-yelian.bakpe.git"
             />
           </Col>
         </Row>
